@@ -1,10 +1,10 @@
-name: 'Your name here'
-description: 'Provide a description here'
-author: 'Your name or organization here'
+name: 'Abhik Chakraborty'
+description: 'I am a smart coder, working like a PRO'
+author: 'IIT Roorkee'
 inputs:
   myInput:              # change this
-    description: 'input description here'
-    default: 'default value if applicable'
+    description: 'input'
+    default: 'world'
 runs:
   using: 'node12'
   main: 'dist/index.js'
